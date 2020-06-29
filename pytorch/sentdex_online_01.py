@@ -15,11 +15,16 @@ print(x)
 # %%
 x.shape
 # %%
-torch.size([2, 3])
-# %%
-y = torch.rand([2.5])
+y = torch.rand((2, 5))
 
 # %%
-print(y)
+y
+# %%
+# view is equivalent to reshape in tensorflow/numpy
+y.view([1, 10])
+
+# %%
+y = y.view([1, 10])
+
 # %%
 
