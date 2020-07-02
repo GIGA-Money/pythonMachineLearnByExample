@@ -1,2 +1,7 @@
-# tensorflowLearnByExample
-What is NLP and its applications, NLP basics Touring Python NLP libraries, Tokenization Part-of-speech, tagging Named entities, recognition Stemming and lemmatization, Getting and exploring the newsgroups data.
+# Title:
+* python machine learning exmples
+## objective
+* to learn the world of python machine learning for pratical, research and implementation
+### details
+* This repo will follow tutorials, form online videos to book mateirals.
+* individual projects and details are stored in sepearte folders. 
