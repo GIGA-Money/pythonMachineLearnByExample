@@ -1,4 +1,4 @@
-# this folder contains tuts from toward data science articles.
+# this folder contains a tutorial from toward data science articles.
 * pysyft_tut: https://towardsdatascience.com/federated-learning-3097547f8ca3
     * install: needs pytorch 1.4 (as of jul 2020) use: 
         * conda install pytorch=1.4 torchvision cudatoolkit=10.2 -c pytorch
